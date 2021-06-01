@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/modal.css"],"names":[],"mappings":"AAAA,IACI,SAAS,CACT,MAAM,CACN,OAAO,CACP,SAAS,CACT,WAAW,CACX,iBAAiB,CACjB,iBACJ","file":"main.0882dc29.chunk.css","sourcesContent":[".md{\r\n    width:80%;\r\n    left:0;\r\n    right:0;\r\n    top:100px;\r\n    margin:auto;\r\n    position:absolute;\r\n    visibility:hidden;\r\n}"]}

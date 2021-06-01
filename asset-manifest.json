@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/retos/static/css/main.0882dc29.chunk.css",
+    "main.js": "/retos/static/js/main.ff3dc7fb.chunk.js",
+    "main.js.map": "/retos/static/js/main.ff3dc7fb.chunk.js.map",
+    "runtime-main.js": "/retos/static/js/runtime-main.ae3d528f.js",
+    "runtime-main.js.map": "/retos/static/js/runtime-main.ae3d528f.js.map",
+    "static/js/2.ac1e5a38.chunk.js": "/retos/static/js/2.ac1e5a38.chunk.js",
+    "static/js/2.ac1e5a38.chunk.js.map": "/retos/static/js/2.ac1e5a38.chunk.js.map",
+    "static/js/3.9dcfa2c5.chunk.js": "/retos/static/js/3.9dcfa2c5.chunk.js",
+    "static/js/3.9dcfa2c5.chunk.js.map": "/retos/static/js/3.9dcfa2c5.chunk.js.map",
+    "index.html": "/retos/index.html",
+    "static/css/main.0882dc29.chunk.css.map": "/retos/static/css/main.0882dc29.chunk.css.map",
+    "static/js/2.ac1e5a38.chunk.js.LICENSE.txt": "/retos/static/js/2.ac1e5a38.chunk.js.LICENSE.txt",
+    "static/media/error.cd5a65e2.png": "/retos/static/media/error.cd5a65e2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae3d528f.js",
+    "static/js/2.ac1e5a38.chunk.js",
+    "static/css/main.0882dc29.chunk.css",
+    "static/js/main.ff3dc7fb.chunk.js"
+  ]
+}
