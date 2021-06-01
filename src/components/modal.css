@@ -1,0 +1,9 @@
+.md{
+    width:80%;
+    left:0;
+    right:0;
+    top:100px;
+    margin:auto;
+    position:absolute;
+    visibility:hidden;
+}
